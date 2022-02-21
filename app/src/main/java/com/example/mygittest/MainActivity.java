@@ -10,7 +10,12 @@ public class MainActivity extends AppCompatActivity {
 
     Button bt;
     EditText et:
+
+
     @Override
+
+    Button button;
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
